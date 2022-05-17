@@ -1,0 +1,15 @@
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\bin\Debug\net6.0\Sorting2.exe
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\bin\Debug\net6.0\Sorting2.deps.json
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\bin\Debug\net6.0\Sorting2.runtimeconfig.json
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\bin\Debug\net6.0\Sorting2.dll
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\bin\Debug\net6.0\Sorting2.pdb
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.AssemblyInfo.cs
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.dll
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\refint\Sorting2.dll
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.pdb
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\Sorting2.genruntimeconfig.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\Sorting2\Sorting2\obj\Debug\net6.0\ref\Sorting2.dll

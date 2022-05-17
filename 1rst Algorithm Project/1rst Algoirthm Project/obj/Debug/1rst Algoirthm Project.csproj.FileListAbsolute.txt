@@ -1,0 +1,8 @@
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\bin\Debug\1rst Algoirthm Project.exe.config
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\bin\Debug\1rst Algoirthm Project.exe
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\bin\Debug\1rst Algoirthm Project.pdb
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\obj\Debug\1rst Algoirthm Project.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\obj\Debug\1rst Algoirthm Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\obj\Debug\1rst Algoirthm Project.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\obj\Debug\1rst Algoirthm Project.exe
+C:\Users\matth\OneDrive - southhills.edu\!!!!Programming Projects Default Location\1rst Algorithm Project\1rst Algoirthm Project\obj\Debug\1rst Algoirthm Project.pdb
